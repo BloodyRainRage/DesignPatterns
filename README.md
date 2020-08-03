@@ -4,10 +4,11 @@ Implementation of design patterns<br>
 Creational patterns:<br>
 Factory Method
 
+<hr>
 <p>
 Structural Patterns:<br>
 Adapter
-
+<hr>
 <p>
-Behavioral Patterns:<b>
+Behavioral Patterns:<br>
 Strattegy
