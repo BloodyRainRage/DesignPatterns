@@ -11,4 +11,4 @@ Adapter
 <hr>
 <p>
 Behavioral Patterns:<br>
-Strattegy
+Strategy
