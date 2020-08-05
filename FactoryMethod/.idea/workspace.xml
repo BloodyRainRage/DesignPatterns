@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb997ad-2ba0-46e0-ab46-e396c50425ba" name="Default Changelist" comment="" />
+    <list default="true" id="1bb997ad-2ba0-46e0-ab46-e396c50425ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FactoryMethod/com/baddragon/Game/Factories/MediumLevelFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FactoryMethod/com/baddragon/Game/Factories/MediumLevelFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FactoryMethod/com/baddragon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FactoryMethod/com/baddragon/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/baddragon/Game/Factories/MediumLevelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baddragon/Game/Factories/MediumLevelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/baddragon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baddragon/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +23,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fZB4C1i4la7Bg4GR7QfNWJJntF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../personal_website" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,11 +74,26 @@
       <option name="presentableId" value="Default" />
       <updated>1596415540734</updated>
       <workItem from="1596415544662" duration="328000" />
-      <workItem from="1596462161475" duration="8242000" />
+      <workItem from="1596462161475" duration="8863000" />
+      <workItem from="1596560062907" duration="200000" />
+      <workItem from="1596560655382" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

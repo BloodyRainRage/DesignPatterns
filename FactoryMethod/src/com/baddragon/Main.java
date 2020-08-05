@@ -22,12 +22,12 @@ public class Main {
         factories.add(new HardLevelFactory());
 
         System.out.println("Enter difficulty:");
-        for(int i = 0; i < factories.size(); i++){
+        for (int i = 0; i < factories.size(); i++) {
             System.out.println(i + 1 + ") " + factories.get(i).toString());
         }
         System.out.print("lvl>>");
-        int level = scanner.nextInt() -1;
-        if (level > -1 && level < factories.size()){
+        int level = scanner.nextInt() - 1;
+        if (level > -1 && level < factories.size()) {
             Game game = new Game(factories.get(level));
             factories.clear();
             game.startGame();
@@ -35,11 +35,5 @@ public class Main {
         } else {
             System.out.println("Incorrect value");
         }
-
-
-
-
-
-
     }
 }
