@@ -1,5 +1,4 @@
 # DesignPatterns
-<hr>
 Implementation of design patterns<br>
 Creational patterns:<br>
 Factory Method<br>
