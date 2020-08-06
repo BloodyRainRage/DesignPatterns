@@ -4,6 +4,7 @@ Creational patterns:<br>
 Factory Method<br>
 Builder<br>
 Prototype<br>
+Object Pool<br>
 Singleton + Lazy Initialization
 
 <hr>
