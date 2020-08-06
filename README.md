@@ -5,12 +5,13 @@ Factory Method<br>
 Builder<br>
 Prototype<br>
 Object Pool<br>
-Singleton + Lazy Initialization
+Singleton + Lazy Initialization, Multitone
 
 <hr>
 <p>
 Structural Patterns:<br>
-Adapter
+Adapter<br>
+Bridge
 <hr>
 <p>
 Behavioral Patterns:<br>
