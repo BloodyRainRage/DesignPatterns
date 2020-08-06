@@ -11,7 +11,7 @@ public class MediumLevelFactory implements IFactory {
     @Override
     public IEnemy create() throws UnknownEnemyException {
 
-        if(counter <= 10){
+        if(counter <= 20){
             counter++;
             return new RogueEnemy(); //spawning rogues while total amount of them are <= 10
         } else{
