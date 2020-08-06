@@ -1,7 +1,7 @@
 # DesignPatterns
 Implementation of design patterns<br>
 Creational patterns:<br>
-Factory Method<br>
+<a href="https://github.com/BloodyRainRage/DesignPatterns/tree/master/FactoryMethod">Factory Method</a><br>
 Builder<br>
 Prototype<br>
 Object Pool<br>
