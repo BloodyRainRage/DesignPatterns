@@ -2,7 +2,8 @@
 Implementation of design patterns<br>
 Creational patterns:<br>
 Factory Method<br>
-Builder
+Builder<br>
+Prototype
 
 <hr>
 <p>
