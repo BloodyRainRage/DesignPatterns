@@ -12,7 +12,7 @@ Creational patterns:<br>
 <p>
 Structural Patterns:<br>
 <a href="https://github.com/BloodyRainRage/DesignPatterns/tree/master/Adapter">Adapter</a><br>
-<a href="https://github.com/BloodyRainRage/DesignPatterns/tree/master/Bridge">Bridge</a>
+<a href="https://github.com/BloodyRainRage/DesignPatterns/tree/master/Bridge">Bridge</a><br>
 <a href="https://github.com/BloodyRainRage/DesignPatterns/tree/master/Proxy">Proxy</a>
 
 <hr>
